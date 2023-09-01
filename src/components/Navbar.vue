@@ -22,8 +22,7 @@
                 <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                     <div class="flex flex-shrink-0 items-center">
                         <router-link :to="{name: 'home'}">
-                            <img class="h-8 w-auto bg-white" src="https://www.transparentpng.com/thumb/house/house-clipart-png-file-13.png"
-                            alt="Your Company" />
+                            <h1 class="text-xl font-bold text-white">News Bangla</h1>
                         </router-link>
                     </div>
                     <div class="sm:ml-6 sm:block">
