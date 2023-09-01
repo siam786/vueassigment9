@@ -47,8 +47,8 @@
         </article>
         <article v-else class="flex flex-col items-start justify-between bg-gray-100 p-6 rounded-md">
           <h3 class="mt-3 text-lg font-semibold leading-6">
-                <p>No content available for this post !</p><br>
-                <span class="text-indigo-500 hover:text-indigo-900 cursor-pointer"><router-link :to="{ name: 'home'}" >Back To Home</router-link></span>
+                <p>কোন পোস্ট নাই/p><br>
+                <span class="text-indigo-500 hover:text-indigo-900 cursor-pointer"><router-link :to="{ name: 'home'}" >হোম ফেরে যান</router-link></span>
             </h3>
         </article>
       </div>
